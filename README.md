@@ -29,7 +29,7 @@ Yii
 https://github.com/yiisoft/yii2  
 
 
-### C Frameworks :  
+## C Frameworks :  
 
 Ice  
 https://github.com/ice/framework   
@@ -41,20 +41,19 @@ Yaf
 https://github.com/laruence/yaf  
 
 
-### React PHP
+## React PHP
 
 https://reactphp.org/  
 https://github.com/reactphp/reactphp
 
-### RxPHP  
+## RxPHP  
 
 https://github.com/ReactiveX/RxPHP  
 
-### Functional PHP Frameworks
+## Functional PHP Frameworks
 
 Functional Php  
 https://github.com/lstrojny/functional-php  
-
 
 
 ## No Framework Guides  
@@ -75,7 +74,7 @@ How To Code on PHP7 Without using a Framework
 https://hackernoon.com/how-to-code-on-php7-without-using-a-framework-df173t2q  
 
 
-### MVC Framework Guides  
+## MVC Framework Guides  
 
 Learn how to build an MVC framework with PHP.
 
@@ -94,18 +93,18 @@ https://www.youtube.com/watch?v=n2yeK6LwSII
 The Principles of the MVC Design Pattern  
 https://github.com/gjerokrsteski/easy-php-mvc  
 
-### Micro Frameworks
+## Micro Frameworks
 
 Fitzgerald PHP  
 https://github.com/gregmolnar/fitzgerald  
 https://gregmolnar.github.io/fitzgerald/  
 
-### Laragon Server  
+## Laragon Server  
 
 https://github.com/leokhoa/laragon  
 
 
-### More PHP   
+## More PHP   
 
 Awesome PHP  
 https://github.com/ziadoz/awesome-php  
@@ -114,7 +113,7 @@ Awesome Laravel
 https://github.com/chiraggude/awesome-laravel  
 
 
-### Topics  
+## Topics  
 
 https://github.com/topics/mvc-framework?l=php
 
