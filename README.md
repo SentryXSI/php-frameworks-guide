@@ -1,6 +1,6 @@
 # PHP Frameworks Guide
 
-Learn more about php frameworks
+Learn more about php frameworks.
 
 
 Cake  
@@ -46,6 +46,20 @@ https://github.com/laruence/yaf
 https://reactphp.org/  
 https://github.com/reactphp/reactphp
 
+### RxPHP  
+
+https://github.com/ReactiveX/RxPHP  
+
+### Functional PHP Frameworks
+
+Functional Php  
+https://github.com/lstrojny/functional-php  
+
+
+### Laragon Server  
+
+https://github.com/leokhoa/laragon
+
 
 ### More PHP   
 
@@ -56,7 +70,7 @@ Awesome Laravel
 https://github.com/chiraggude/awesome-laravel  
 
 
+### Topics  
 
-
-
+https://github.com/topics/mvc-framework?l=php
 
