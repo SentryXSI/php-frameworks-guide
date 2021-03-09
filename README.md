@@ -84,8 +84,11 @@ https://www.taniarascia.com/tags/php/
 
 Use PHP to Create an MVC Framework [ FreeCodeCamp ][ Codeholic ]  
 https://www.youtube.com/watch?v=6ERdu4k62wI  
+
+Build PHP mvc framework playlist [ Codeholic ]  
+https://www.youtube.com/playlist?list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1  
+https://github.com/thecodeholic/php-mvc-framework    
 https://www.youtube.com/thecodeholic  
-https://github.com/thecodeholic/php-mvc-framework  
 
 Complete MVC Framework In OOP | How To Create A MVC Framework in PHP | Code With Dary  
 https://www.youtube.com/watch?v=n2yeK6LwSII  
