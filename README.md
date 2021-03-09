@@ -43,11 +43,11 @@ https://github.com/laruence/yaf
 
 ### React PHP
 
-https://reactphp.org/
+https://reactphp.org/  
 https://github.com/reactphp/reactphp
 
 
-### More  
+### More PHP   
 
 Awesome PHP  
 https://github.com/ziadoz/awesome-php  
