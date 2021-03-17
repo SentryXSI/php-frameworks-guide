@@ -56,6 +56,8 @@ Functional Php
 https://github.com/lstrojny/functional-php  
 
 
+
+
 ## No Framework Guides  
 
 Learn how to build a PHP application without a 'framework' with a 'no-framework' framework.  
@@ -96,11 +98,28 @@ https://www.youtube.com/watch?v=n2yeK6LwSII
 The Principles of the MVC Design Pattern  
 https://github.com/gjerokrsteski/easy-php-mvc  
 
+## Lucid Architecture  
+
+https://lucidarch.dev  
+https://github.com/lucidarch  
+
+The lucid architecture for building scalable applications  
+https://www.youtube.com/watch?v=wSnM4JkyxPw  
+
 ## Micro Frameworks
+
+Arya  
+https://github.com/asm89/Arya  
 
 Fitzgerald PHP  
 https://github.com/gregmolnar/fitzgerald  
 https://gregmolnar.github.io/fitzgerald/  
+
+## Guides  
+
+Tips for building frameworks  
+https://francois-steinel.fr/article/few-tips-for-building-frameworks  
+
 
 ## Laragon Server  
 
