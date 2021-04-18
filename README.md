@@ -55,7 +55,20 @@ https://github.com/ReactiveX/RxPHP
 Functional Php  
 https://github.com/lstrojny/functional-php  
 
+Php Functional  
+https://github.com/widmogrod/php-functional  
 
+Phunkie  
+https://github.com/phunkie/phunkie  
+
+Transducers  
+https://github.com/mtdowling/transducers.php  
+http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming  
+https://www.youtube.com/watch?v=6mTbuzafcII  
+
+Functional Programming with PHP  
+https://github.com/marcelgsantos/getting-started-with-fp-in-php  
+https://www.palantir.net/presentations/phptek14-functional-php  
 
 
 ## No Framework Guides  
