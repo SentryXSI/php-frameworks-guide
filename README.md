@@ -61,7 +61,7 @@ https://github.com/widmogrod/php-functional
 Phunkie  
 https://github.com/phunkie/phunkie  
 
-FPT | Functional Programming Toolbox
+FPT | Functional Programming Toolbox  
 https://github.com/loophp/fpt  
 https://loophp-fpt.readthedocs.io/en/latest/  
 
