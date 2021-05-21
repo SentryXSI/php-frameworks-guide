@@ -61,6 +61,10 @@ https://github.com/widmogrod/php-functional
 Phunkie  
 https://github.com/phunkie/phunkie  
 
+FPT | Functional Programming Toolbox
+https://github.com/loophp/fpt  
+https://loophp-fpt.readthedocs.io/en/latest/  
+
 Transducers  
 https://github.com/mtdowling/transducers.php  
 http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming  
